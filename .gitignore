@@ -1,0 +1,7 @@
+*.gif
+
+.DS_Store
+.pyc
+.Trashes
+.Thumbs.db
+
