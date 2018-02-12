@@ -7,3 +7,7 @@ See http://knowyourmeme.com/memes/intensifies for examples
 Open image
 Create shifted versions
 Make gif out of them
+
+# To run
+
+pipenv run python drawLine.py nootnoot.png
