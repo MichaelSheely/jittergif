@@ -2,5 +2,12 @@
 url = "https://pypi.python.org/simple"
 verify_ssl = true
 [packages]
+
 imageio = "*"
+matplotlib = "*"
+numpy = "*"
+
+
+
+
 
